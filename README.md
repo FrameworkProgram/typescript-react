@@ -12,6 +12,7 @@ npm run test
 ```
 
 ### 技术栈
+```
 create-react-app@3.1.1
 typescript@3.5.3
 react@^16.9.0
@@ -19,4 +20,4 @@ react-router@^5
 react-router-dom@^5
 react-redux@
 react-redux-thrunk
-
+```
